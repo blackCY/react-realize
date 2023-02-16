@@ -1,0 +1,12 @@
+{
+  "name": "react-realize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "blackCY <dllnacy@163.com> (https://github.com/blackCY)",
+  "license": "MIT"
+}
