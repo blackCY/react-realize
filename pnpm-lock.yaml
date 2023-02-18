@@ -30,6 +30,12 @@ importers:
       prettier: 2.8.4
       typescript: 4.9.5
 
+  packages/react:
+    specifiers:
+      shared: workspace:1.0.0
+    dependencies:
+      shared: link:../shared
+
 packages:
 
   /@babel/code-frame/7.18.6:

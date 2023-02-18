@@ -1,0 +1,10 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react 公用方法",
+  "module": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "shared": "workspace:1.0.0"
+  }
+}
